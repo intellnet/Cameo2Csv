@@ -5,6 +5,6 @@ This code is free to use for any purpose with or without credit.  Have at it.  I
 
 To use it, simply:
 
-`git clone git@github.com:bisoldi/CameoCodeToCSV.git`
+`git clone git@github.com:intellnet/Cameo2Csv.git`
 `mvn clean package`.
 `java -jar target/CameoToCSV-1.0-SNAPSHOT.jar`
